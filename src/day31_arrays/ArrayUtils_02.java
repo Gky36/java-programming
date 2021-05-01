@@ -24,7 +24,7 @@ public class ArrayUtils_02
         System.out.println(Arrays.toString(words));
 
 
-        // Sort it and REVERSE IT
+        // Sort it and REVERSE IT`
 
         Arrays.sort(words, Collections.reverseOrder());
         System.out.println(Arrays.toString(words));
@@ -38,7 +38,7 @@ public class ArrayUtils_02
         it will sort the array in ascending (small to large) order a-z
         Arrays.sort(nums);
 
-    2) Arrays.toString(arrayname)
+    2) Arrays.toString(arrayName)
     it will help us print array vales in single statement without using a loop
  */
 

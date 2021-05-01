@@ -12,9 +12,9 @@ b) If the length of the string is odd there will be one middle character.
          */
 
         String word="apple";
-        if (word.length() %2==1)
+        if (word.length() %2 ==1)
         {
-            //odd
+            //odd number
             System.out.println(word.charAt(word.length()/2));
             System.out.println(word.substring(word.length()/2,word.length()/2+1));
         }

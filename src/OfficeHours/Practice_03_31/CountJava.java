@@ -7,7 +7,8 @@ public class CountJava
         String str = "java is fun. java class today, not javascript";
         int count = 0;
 
-        while(str.contains("java")) {
+        while(str.contains("java"))
+        {
             count++;
             str = str.replaceFirst("java", "");
         }
