@@ -37,6 +37,7 @@ public class UpdatingArrayList
         How would you do that if myCars was array:
         myCars[4]="Honda;
          */
+
         // find the index number of "ford"
         System.out.println("index of range = " + myCar.indexOf("Range Rover"));
         int mercedesIndex = myCar.indexOf("Mercedes");

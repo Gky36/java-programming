@@ -27,7 +27,7 @@ public class StringNestedLoop_04
         {
             for (int j=i;j<word.length();j++)
             {
-                System.out.print(word.charAt(j));
+                System.out.print(word.charAt(j)+" ");
             }
             System.out.println();
         }
