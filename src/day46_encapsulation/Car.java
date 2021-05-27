@@ -47,7 +47,9 @@ public class Car
     }
 }
 /*
-ENCAPSULATION -> is a process of hiding the data by 1) making instance variables private and
+ENCAPSULATION -> is a process of hiding the data by
+
+1) making instance variables private and
 2) providing public getter/setter methods to access instance variables.
 
 Benefits:

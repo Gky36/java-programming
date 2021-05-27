@@ -32,5 +32,6 @@ public class Coffee
     public String getType() {
         return type;
     }
+
 }
 
