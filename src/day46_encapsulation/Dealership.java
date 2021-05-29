@@ -34,3 +34,16 @@ public class Dealership
 
     }
 }
+/*
+
+OOP: Object Oriented Programming
+-Encapsulation
+
+-Polymorphism:
+       -> Many forms. We can have parent reference type and any child object type.
+
+- Constructor:
+        -> Special method that is called when object is created for a class. it has same name as classname and no return type.
+        -> it helps with initialization of instance variables.
+
+ */
