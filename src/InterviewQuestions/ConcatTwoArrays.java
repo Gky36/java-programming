@@ -1,4 +1,4 @@
-package OfficeHours;
+package InterviewQuestions;
 
 import java.util.Arrays;
 

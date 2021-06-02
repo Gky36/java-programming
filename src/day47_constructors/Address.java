@@ -87,5 +87,5 @@ Constructor in JAVA:
     -> It must be name as class Name
     -> It is used to initialize the instance variables.
 
-We need the setter methods to update the variable values, because constructor runs once in the begining.
+We need the setter methods to update the variable values, because constructor runs once in the beginning.
  */
