@@ -1,0 +1,15 @@
+package day50_inheritance;
+
+public class StaticBlockTest
+{
+
+    public static void main(String[] args)
+    {
+       StaticBlockDemo st1 = new StaticBlockDemo(); //static > constructor (10)
+       StaticBlockDemo st2 = new StaticBlockDemo(); //constructor run each time we create new objects (20)
+       StaticBlockDemo st3 = new StaticBlockDemo(); //constructor (25)
+        System.out.println(StaticBlockDemo.num);
+        StaticBlockDemo st4 = new StaticBlockDemo(50);
+        System.out.println(StaticBlockDemo.num);
+    }
+}

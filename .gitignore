@@ -1,4 +1,3 @@
-# Project exclude paths
-/out/
-/.idea/
-java-programming.iml
+.idea
+out
+*.iml
