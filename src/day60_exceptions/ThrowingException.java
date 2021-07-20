@@ -38,7 +38,6 @@ EX:
 		System.out.println("Exception took place - " + e.getMessage());
 	}
 
-add new branch/package day60_exceptions
 
 As we mentioned, exceptions are errors that happen during code execution, and java creates object of the the matching exception type and throws it. Then code execution stops.
 
